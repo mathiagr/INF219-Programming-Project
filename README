@@ -1,10 +1,12 @@
 This was a project from fall 2017 in INF219 - Project in Programming I
 
-The project was to use scrapy to scrape appartments for sale in Bergen listed on www.finn.no, then use machine learning on
-the data to be able to predict real estate prices on new listings.
-The ML algorithms I used in Python was first a ID3 Decision Tree and the Random Forrest
-algorithm in the Keras library. Based on only 400 appartments as training data and 35 for testing
-I was able to predict prices with an error of about 10%.
+The (self chosen) project was to use Scrapy to scrape appartments for sale in Bergen listed on www.finn.no 
+(throughout fall of 2017),
+then use machine learning on the data to be able to predict real estate prices on new listings.
+
+The ML algorithms I used in Python was first an ID3 Decision Tree (modified version used in the INF283 course at UiB) 
+and the Random Forrest from the the Keras library. 
+Based on only 400 appartments as training data and 35 for testing I was able to predict prices with an error of about 10%.
 
 
 Mathias Grønstad
